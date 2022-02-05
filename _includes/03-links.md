@@ -1,2 +1,1 @@
-
-[Github]https://github.com/crafusta/markdown-portfolio
+[GitHub](http://github/crafusta.com)
